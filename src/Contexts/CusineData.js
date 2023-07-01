@@ -1,5 +1,7 @@
+import { v4 as uuidv4 } from "uuid";
 export const recipes = [
   {
+    id: uuidv4(),
     name: "Sweet and Salty Grilled Watermelon",
     Type: "American",
     Ingredients: [
@@ -18,6 +20,7 @@ export const recipes = [
     img: "https://github.com/Nithin3008/mcr5/blob/master/src/Contexts/images/watermelon.jpg?raw=true",
   },
   {
+    id: uuidv4(),
     name: "Butterscotch Cake",
     Type: "Indian",
     Ingredients: [
@@ -40,6 +43,7 @@ export const recipes = [
     img: "https://github.com/Nithin3008/mcr5/blob/master/src/Contexts/images/cake.jpg?raw=true",
   },
   {
+    id: uuidv4(),
     name: "Maagi",
     Type: "Indian",
     Ingredients: [
@@ -59,6 +63,6 @@ export const recipes = [
       "Once the noodles are cooked, turn off the heat. Taste and adjust the seasoning as needed.",
       "Garnish with freshly chopped coriander leaves.",
     ],
-    img: "",
+    img: "https://github.com/Nithin3008/mcr5/blob/master/src/Contexts/images/maaggi.jpg?raw=true",
   },
 ];

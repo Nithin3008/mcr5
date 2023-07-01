@@ -43,3 +43,61 @@ img {
   height: 200;
   width: 200;
 }
+.recipeItems {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.recipeItems ul {
+  border: 1px solid black;
+  margin: 10px 10px;
+  padding: 10px 10px;
+}
+header {
+  margin-top: 30px;
+}
+.headerSec {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+.recPost {
+  display: flex;
+  width: 800px;
+  border: 1px solid black;
+  padding: 20px 20px;
+  margin: auto;
+  align-items: center;
+}
+.recPost img {
+  height: 400px;
+}
+.recPost__ingred {
+  display: flex;
+  flex-wrap: wrap;
+}
+.recPost__inst {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.modal {
+  position: fixed;
+  /* display: none; */
+  /* z-index: 1; */
+  background-color: #00000000;
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%;
+  overflow: auto;
+  background-color: #282c34;
+}
+.modalData {
+  background-color: #fefefe;
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
