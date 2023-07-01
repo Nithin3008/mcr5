@@ -5,7 +5,6 @@ import { Recipepost1 } from "./RecPost";
 function App() {
   return (
     <div className="App">
-      <Home1></Home1>
       <Routes>
         <Route path="/" element={<Home1></Home1>}></Route>
         <Route
