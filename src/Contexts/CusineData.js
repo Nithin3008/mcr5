@@ -1,0 +1,61 @@
+export const recipes = [
+  {
+    name: "Sweet and Salty Grilled Watermelon",
+    Type: "American",
+    Ingredients: [
+      "2 teaspoons granulated sugar",
+      "1 1/2 teaspoons kosher salt",
+      "1/8 to 1/4 teaspoon cayenne pepper",
+      "1 mini watermelon or 1/2 standard-sized watermelon",
+      "1 lime, halved",
+    ],
+    Recipie: [
+      "Turn the grill on high and let it preheat for 10 to 15 minutes. If needed, clean the grates.Make the spice blend by combining the sugar, salt, smoked paprika, and cayenne pepper in a small bowl.",
+      "Rinse and dry the watermelon and place it on your cutting board. Using a large knife, trim off each end of the watermelon.Turn the watermelon up so that it’s resting on one of the flat ends you just created. Slice it in half lengthwise. Place the watermelon halves cut side down on the board and slice into 1-inch thick slices. Then stack those larger slices and cut them in half again so you have triangular wedges.",
+      "If you’d like to be extra careful, moisten a folded paper towel with neutral oil and brush it onto the grates. As long as the grill is clean and is very hot, the watermelon should not stick. Place the slices on the hot grill and cook each side on high until grill marks appear, 2 to 3 minutes per side. The rind should still be vibrant and green, not shriveled.",
+      "Using tongs, remove the slices from the grill and place on a rimmed baking tray to catch any juices. Squeeze lime juice on top and sprinkle each wedge with the spice mix. Enjoy immediately.",
+    ],
+  },
+  {
+    name: "Butterscotch Cake",
+    Type: "Indian",
+    Ingredients: [
+      "2 cups all-purpose flour",
+      "2 teaspoons baking powder",
+      "1/2 teaspoon baking soda",
+      "1/4 teaspoon salt",
+      "1 cup unsalted butter, softened",
+      "1 and 1/2 cups granulated sugar",
+      "1 teaspoon vanilla extract",
+      "1 cup buttermilk",
+    ],
+    Recipie: [
+      "Preheat your oven to 350°F (175°C). Grease and flour two 9-inch round cake pans.In a medium-sized bowl, whisk together the all-purpose flour, baking powder, baking soda, and salt. Set aside.",
+      "In a large mixing bowl, cream together the softened butter and granulated sugar until light and fluffy. Add the eggs one at a time, beating well after each addition. Stir in the vanilla extract.Gradually add the dry ingredients to the butter mixture, alternating with the buttermilk. Begin and end with the dry ingredients, mixing just until combined after each addition.",
+      "Divide the batter evenly between the prepared cake pans. Smooth the tops with a spatula. Bake in the preheated oven for 25-30 minutes or until a toothpick inserted into the center comes out clean.",
+      "While the cakes are baking, prepare the butterscotch sauce. In a saucepan, melt the butter over medium heat. Add the granulated sugar and stir until it dissolves and turns golden brown, about 5-7 minutes. Remove the pan from heat and slowly pour in the heavy cream while whisking continuously. Be careful as the mixture may bubble up. Stir in the vanilla extract and a pinch of salt. Set aside to cool.",
+      "Once the cakes are done, remove them from the oven and let them cool in the pans for 10 minutes. Then, transfer the cakes to a wire rack to cool completely.",
+    ],
+  },
+  {
+    name: "Maagi",
+    Type: "Indian",
+    Ingredients: [
+      "1 pack of Maggi noodles",
+      "2 cups water",
+      "1 small onion, finely chopped. 1 small tomato, finely chopped",
+      "1 small capsicum (bell pepper), finely chopped.1-2 green chilies, finely chopped ",
+      "1/4 teaspoon turmeric powder.1/2 teaspoon red chili powder ",
+      "1/2 teaspoon garam masala powder.1/2 teaspoon cumin seeds",
+      "2 tablespoons oil.Salt to taste",
+    ],
+    Recipie: [
+      "Heat oil in a pan or a pot on medium heat. Add cumin seeds and let them splutter.Add the chopped onions and green chilies. Sauté until the onions become translucent.",
+      "Add the chopped tomatoes and cook until they turn soft and mushy.If using vegetables like green peas, carrots, or corn, add them now and cook for a few minutes until they are slightly tender.",
+      "Add the turmeric powder, red chili powder, and garam masala powder. Mix well and cook for a minute.Break the Maggi noodles into small pieces and add them to the pan. Sauté for a minute to lightly toast the noodles.",
+      "Add the Maggi tastemaker (the seasoning packets that come with the noodles) and mix well.Pour in the water and bring it to a boil. Reduce the heat to low and let it simmer until the noodles are cooked and the water has evaporated, stirring occasionally. This usually takes about 2-3 minutes.",
+      "Once the noodles are cooked, turn off the heat. Taste and adjust the seasoning as needed.",
+      "Garnish with freshly chopped coriander leaves.",
+    ],
+  },
+];
