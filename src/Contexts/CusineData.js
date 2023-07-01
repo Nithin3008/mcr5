@@ -15,6 +15,7 @@ export const recipes = [
       "If you’d like to be extra careful, moisten a folded paper towel with neutral oil and brush it onto the grates. As long as the grill is clean and is very hot, the watermelon should not stick. Place the slices on the hot grill and cook each side on high until grill marks appear, 2 to 3 minutes per side. The rind should still be vibrant and green, not shriveled.",
       "Using tongs, remove the slices from the grill and place on a rimmed baking tray to catch any juices. Squeeze lime juice on top and sprinkle each wedge with the spice mix. Enjoy immediately.",
     ],
+    img: "https://github.com/Nithin3008/mcr5/blob/master/src/Contexts/images/watermelon.jpg?raw=true",
   },
   {
     name: "Butterscotch Cake",
@@ -36,6 +37,7 @@ export const recipes = [
       "While the cakes are baking, prepare the butterscotch sauce. In a saucepan, melt the butter over medium heat. Add the granulated sugar and stir until it dissolves and turns golden brown, about 5-7 minutes. Remove the pan from heat and slowly pour in the heavy cream while whisking continuously. Be careful as the mixture may bubble up. Stir in the vanilla extract and a pinch of salt. Set aside to cool.",
       "Once the cakes are done, remove them from the oven and let them cool in the pans for 10 minutes. Then, transfer the cakes to a wire rack to cool completely.",
     ],
+    img: "https://github.com/Nithin3008/mcr5/blob/master/src/Contexts/images/cake.jpg?raw=true",
   },
   {
     name: "Maagi",
@@ -57,5 +59,6 @@ export const recipes = [
       "Once the noodles are cooked, turn off the heat. Taste and adjust the seasoning as needed.",
       "Garnish with freshly chopped coriander leaves.",
     ],
+    img: "",
   },
 ];

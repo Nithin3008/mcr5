@@ -28,7 +28,12 @@ export const Home1 = () => {
         <div>
           {Recipe.map((val) => (
             <ul>
-              <li>{/* <img></img> */}</li>
+              <li>
+                <img
+                  style={{ height: "200px", width: "200px" }}
+                  src={val.img}
+                ></img>
+              </li>
               <li>{val.name}</li>
               <li>{val.Type}</li>,<li>Ingredient:See Recipe</li>
               <li>Instructions:See Recipe</li>
