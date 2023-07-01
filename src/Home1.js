@@ -14,6 +14,7 @@ export const Home1 = () => {
   function submitRec(rec) {
     console.log(rec);
     addNewData(rec);
+    setEdit(!showEdit);
   }
   return (
     <div>
